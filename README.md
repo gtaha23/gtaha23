@@ -5,6 +5,7 @@
 - 📫 How to reach me +90 501 123 08 12
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a chess player (not professional)
+- 💬 I have a discord
 
 <!---
 gtaha23/gtaha23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
