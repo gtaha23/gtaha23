@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a chess player (not professional)
 - 💬 I have a discord
+- 📢 Currently Developing a bot
 
 <!---
 gtaha23/gtaha23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
