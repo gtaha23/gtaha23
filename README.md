@@ -7,6 +7,8 @@
 - ⚡ Fun fact: I am a chess player (not professional)
 - 💬 I have a discord
 - 📢 Currently Developing a bot
+- 🥳 Birthday in august
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Nationality: Turkish
 
 <!---
 gtaha23/gtaha23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
