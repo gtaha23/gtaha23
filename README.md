@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +90 501 123 08 12
+- 📫 How to reach me Never...
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a chess player (not professional)
 - 💬 I have a discord
