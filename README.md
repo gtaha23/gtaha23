@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gtaha23
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning batchfile
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Never...
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on mOS
+- 📫 How to reach me: gokhantahagpinar@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a chess player (not professional)
 - 💬 I have a discord
