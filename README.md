@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @gtaha23
-- 👀 I’m interested in Coding
+- 👀 I’m interested in OS development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on mOS
 - 📫 How to reach me: gokhantahagpinar@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a chess player (not professional)
-- 💬 I have a discord
+- 💬 I am a Linux fan
 - 📢 Currently Developing a O.S
 - 🥳 Birthday in august
 - 🇹🇷 Nationality: Turkish
