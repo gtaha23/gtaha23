@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @gtaha23
+# 👋 Hi, I’m Gökhan
 Creator of MasterS
 
 # About me
