@@ -1,9 +1,10 @@
 # 👋 Hi, I’m Gökhan
-Creator of MasterS
+Creator of MasterS, MasterOS project(s).
 
 # About me
 I’m interested in OS development, I’m currently learning Rust.
 Looking to collaborate on MasterOS, Currently Developing a O.S,
+- Kemalist personality
 - 🇹🇷 Nationality: Turkish
 
 
@@ -13,6 +14,7 @@ Looking to collaborate on MasterOS, Currently Developing a O.S,
 
 ## Skills:
 - OSDev
+- Game Development w/ Unity
 - Rust programming
 - C/C++ programming
 - Python programming
