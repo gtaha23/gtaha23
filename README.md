@@ -3,8 +3,8 @@ Creator of MasterS, MasterOS project(s).
 
 # About me
 I’m interested in OS development, I’m currently learning Rust.
-Looking to collaborate on MasterOS, Currently Developing a O.S,
-- Kemalist personality
+Looking to collaborate on MasterOS, Developing an O.S,
+- Advanced in 2+ Programming Languages
 - 🇹🇷 Nationality: Turkish
 
 
