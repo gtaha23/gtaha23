@@ -10,7 +10,7 @@ Looking to collaborate on MasterOS, Developing an O.S,
 
 ## Reach me
 - 📫 How to reach me: gokhantahagpinar@gmail.com
-- ⚡ Fun fact: I am a cs2 e-sport player (not professional)
+- ⚡ Reel vrother
 
 ## Skills:
 - OSDev
